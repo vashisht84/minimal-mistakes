@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Varun Vasisht"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : 
   bio              : "I am an Software Developer."
   location         : "India"
   email            : "varun.vasisht84@gmail.com"
