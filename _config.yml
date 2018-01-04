@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Varun Vasisht"
-  avatar           : 
+  avatar           : "https://avatars1.githubusercontent.com/u/17309258?s=400&u=6a15039ecd86d202bc8bb8c6da746a7f43b62427&v=4"
   bio              : "I am an Software Developer."
   location         : "India"
   email            : "varun.vasisht84@gmail.com"
@@ -102,7 +102,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/varun-vasisht-6349618/)
+  linkedin         : "https://www.linkedin.com/in/varun-vasisht-6349618/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
